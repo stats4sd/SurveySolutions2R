@@ -21,3 +21,7 @@ Login: Headquarters1 Password: Headquarters1
 3. Run a simple line of code to import the data into R and then get going with your data analysis
 
 SurveySolutions2R("Example-FP_31_Tabular_All.zip",saveData=FALSE)
+
+This should also work nicely in conjunction with the API, if you are using this to download the data:
+
+https://rstudio-pubs-static.s3.amazonaws.com/239851_1bc298ae651c41c7a65e09ce82f9053f.html

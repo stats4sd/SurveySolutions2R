@@ -1,0 +1,14 @@
+Package: SurveySolutions2R
+Title: Imports Survey Solutions Tabular Data to R
+Version: 0.0.1
+Authors@R: person("Sam", "Dumble", email = "s.dumble@stats4sd.org", role = c("aut", "cre"))
+Description: Imports 'Survey Solutions' tabular format data from zipfile.
+Depends: R (>= 3.4.1)
+License: GPL (>= 3)
+Encoding: UTF-8
+Imports:
+    Hmisc,
+    stringr,
+    data.table
+LazyData: true
+RoxygenNote: 6.0.1.9000

@@ -20,7 +20,6 @@
 #'@return A series of data frames
 #'@export
 #'@examples
-#'setwd("C:/Users/User")
 #'#Using data downloaded from the Survey Solutions Demo Server
 #'#https://demo.mysurvey.solutions
 #'#Login: Headquarters1 Password: Headquarters1

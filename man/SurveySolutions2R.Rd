@@ -34,7 +34,9 @@ imports all data frames in the R environment, assigns factor levels and adds
 full text for variable labels using \code{\link[Hmisc]{label}}
 }
 \examples{
-setwd("C:/Users/sdumb/Dropbox (SSD)/SurveySolutions2R")
+#Using data downloaded from the Survey Solutions Demo Server
+#https://demo.mysurvey.solutions
+#Login: Headquarters1 Password: Headquarters1
 SurveySolutions2R("Example-FP_31_Tabular_All.zip",saveData=FALSE)
 }
 \keyword{Import}

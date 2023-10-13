@@ -12,11 +12,7 @@ This package allows for importing all the data files contained within the zipfil
     library(SurveySolutions2R)
 
 ## Use Package
-1. Download your survey data in tabular format. If you don't actually use Survey Solutions but want to play with their data they have a free demo server:
-
-    https://demo.mysurvey.solutions
-
-    Login: Headquarters1 Password: Headquarters1
+1. Download your survey data in tabular format. If you don't actually use Survey Solutions but want to play with their data they have a free demo server. For information on the server and how to access it, see the Survey Solutions documentation: https://docs.mysurvey.solutions/headquarters/config/demo-server/
 
 2. Run a simple line of code to import the data into R and then get going with your data analysis
 
